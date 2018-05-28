@@ -1,0 +1,1 @@
+this file is created by Lin Xu as an initial test for smart git
